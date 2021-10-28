@@ -1,0 +1,4 @@
+Rencana belajar kedepannya
+- Belajar Javascript
+- Belajar Framework CSS
+  * Bootstrap
